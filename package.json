@@ -1,5 +1,5 @@
 {
-  "name": "valentine",
+  "name": "ailingzhi",
   "version": "1.0.0",
   "description": "情人节",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yacan8/valentine.git"
+    "url": "git+https://github.com/ailingzhi/ailingzhi.github.io.git"
   },
-  "author": "can.yang",
+  "author": "ling.ye",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yacan8/valentine/issues"
+    "url": "https://github.com/ailingzhi/ailingzhi.github.io/issues"
   },
-  "homepage": "https://github.com/yacan8/valentine#readme",
+  "homepage": "https://github.com/ailingzhi/ailingzhi.github.io#readme",
   "dependencies": {
     "prismjs": "^1.17.1",
     "react": "16.0",
